@@ -18,4 +18,4 @@ abbaabba
 4, abbaabba
 ```
 
-#### This was an assignment for Formal Languages and Automara class by Ph.D Rafael Rieder from University of Passo Fundo in 2016-1, assignment from UVa Online Judge.
+#### This was an assignment for Formal Languages and Automata class by Ph.D Rafael Rieder from University of Passo Fundo in 2016-1, assignment from UVa Online Judge.
